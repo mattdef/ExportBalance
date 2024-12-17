@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "ExportBalance",
+  "display": "standalone",
+  "name": "ExportBalance",
+  "short_name": "ExportBalance",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
